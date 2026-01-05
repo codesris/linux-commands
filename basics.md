@@ -1,24 +1,24 @@
 # Linux CLI Notes Day 1
 
-## File Navigation
+### File Navigation
 ```bash
 cd / ls / pwd examples
 ```
 ---
 
-## File Manipulation
+### File Manipulation
 ```bash
 touch, mkdir, cp, mv, rm
 ```
 ---
 
-## Package Management
+### Package Management
 ```bash
 apt update/install
 ```
 ---
 
-## Notes:
+### Notes:
 ```bash
 - rm -rf is dangerous
 - cd ~ always goes home
